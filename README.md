@@ -1,5 +1,5 @@
 # projeto-farmacia
-Desafio realizado para um processo seletivo de uma empresa, no qual nos foi pedido para criar um sistema uma aplicação Web para consumir dados de uma API em C# realizando CRUD sobre o Banco  de dados SQL Server e realizando autenticação no Google Firebase.
+Desafio realizado para um processo seletivo de uma empresa, no qual nos foi pedido para criar uma aplicação Web em ReactJs para consumir dados de uma API criada em C# realizando CRUD sobre o Banco  de dados SQL Server e realizando autenticação no Google Firebase.
 
 # Tela de Cadastro de Usuario
 ![image](https://user-images.githubusercontent.com/62626738/124858107-d4de9980-df83-11eb-90bd-4199ebcf8413.png)
